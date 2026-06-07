@@ -1,7 +1,7 @@
 ﻿{
 	"name": "BuddyFix",
 	"version_number": "1.0.0",
-	"website_url": "https://github.com/Tizitendo/EarlyMoon",
+	"website_url": "https://github.com/Tizitendo/BuddyFix",
 	"description": "Aligns Best Buddys hitbox with the model and increases its size a bit",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",

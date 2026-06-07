@@ -32,6 +32,7 @@ public sealed class BuddyFix : BaseUnityPlugin
 			if (hitbox)
 			{
 				hitbox.localPosition = new Vector3(0, -1, 0.1f);
+				hitbox.localScale = new Vector3(2.5f, 2.5f, 2.5f);
 			}
 
 			R2API.LanguageAPI.AddOverlay("FRIENDUNIT_BODY_NAME", BuddyName.Value);
